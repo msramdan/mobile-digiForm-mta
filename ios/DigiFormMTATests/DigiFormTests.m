@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface DigiFormTests : XCTestCase
+@interface DigiFormMTATests : XCTestCase
 
 @end
 
-@implementation DigiFormTests
+@implementation DigiFormMTATests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

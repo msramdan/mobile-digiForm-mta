@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "DigiForm.app"
-               BlueprintName = "DigiForm"
-               ReferencedContainer = "container:DigiForm.xcodeproj">
+               BuildableName = "DigiFormMTA.app"
+               BlueprintName = "DigiFormMTA"
+               ReferencedContainer = "container:DigiFormMTA.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "DigiFormTests.xctest"
-               BlueprintName = "DigiFormTests"
-               ReferencedContainer = "container:DigiForm.xcodeproj">
+               BuildableName = "DigiFormMTATests.xctest"
+               BlueprintName = "DigiFormMTATests"
+               ReferencedContainer = "container:DigiFormMTA.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "DigiForm.app"
-            BlueprintName = "DigiForm"
-            ReferencedContainer = "container:DigiForm.xcodeproj">
+            BuildableName = "DigiFormMTA.app"
+            BlueprintName = "DigiFormMTA"
+            ReferencedContainer = "container:DigiFormMTA.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "DigiForm.app"
-            BlueprintName = "DigiForm"
-            ReferencedContainer = "container:DigiForm.xcodeproj">
+            BuildableName = "DigiFormMTA.app"
+            BlueprintName = "DigiFormMTA"
+            ReferencedContainer = "container:DigiFormMTA.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
